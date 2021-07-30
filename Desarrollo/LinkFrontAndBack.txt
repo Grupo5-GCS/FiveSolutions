@@ -1,0 +1,2 @@
+Link de la parte del Frontend del proyecto: https://github.com/Grupo5-GCS/ST-Frontend
+Link de la parte del Backend del proyecto: https://github.com/Grupo5-GCS/ST-Backend
